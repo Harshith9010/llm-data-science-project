@@ -19,3 +19,7 @@ It implements **chunking, embeddings, and retrieval algorithms** for semantic se
 - Groq API, PyTorch, Scikit-learn, NumPy, Pandas  
 
 ## 📂 Project Structure
+├── README.md
+├── requirements.txt
+├── llm_rag_demo.ipynb
+├── llama_groq_demo.py
