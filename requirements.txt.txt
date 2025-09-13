@@ -1,0 +1,8 @@
+langchain
+llama-index
+groq
+torch
+scikit-learn
+numpy
+pandas
+transformers
